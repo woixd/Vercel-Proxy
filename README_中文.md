@@ -59,7 +59,7 @@ https://your-vercel-app.vercel.app/?url=https://api.github.com
 ### Q: 有限制吗？
 
 - Vercel 的默认响应大小限制是 100MB，超出无法使用。
-- 对于超大文件或下载任务，建议使用 Wokers-proxy。
+- 对于超大文件或下载任务，建议使用 Cloudflare-Proxy。
 
 ---
 
