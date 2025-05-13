@@ -22,7 +22,7 @@ Click the button below to automatically deploy to your Vercel account:
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/fssxg/vercel-proxy)
 
-> ✅ **Recommendation**: Fork the project to your own GitHub account before deploying.
+
 
 ---
 
