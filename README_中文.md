@@ -22,7 +22,7 @@
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/fssxg/vercel-proxy)
 
-> ✅ **建议**：将项目 Fork 到自己的 GitHub，然后再部署。
+
 
 ---
 
