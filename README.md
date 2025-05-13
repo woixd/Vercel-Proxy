@@ -1,4 +1,4 @@
-# vercel-api-web-proxy
+# vercel-proxy
 
 一个可以部署在 [Vercel](https://vercel.com) 的通用 API + Web 动态代理服务。
 
