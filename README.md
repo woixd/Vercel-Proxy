@@ -6,7 +6,6 @@
 
 This is a lightweight proxy service based on Vercel, which can be used to bypass CORS restrictions, access remote resources, forward APIs, and other common scenarios.
 
----
 
 ## ✨ Features
 
