@@ -1,4 +1,4 @@
-## 🌐 [中文](https://github.com/fssxg/Vercel-Proxy/blob/main/README_%E4%B8%AD%E6%96%87.md)/[EN](https://github.com/fssxg/Vercel-Proxy/blob/main/README.md)
+## 🌐 [中文](https://github.com/woixd/Vercel-Proxy/blob/main/README_%E4%B8%AD%E6%96%87.md)/[EN](https://github.com/woixd/Vercel-Proxy/blob/main/README.md)
 
 ---
 
@@ -22,7 +22,7 @@
 
 点击下方按钮自动部署到你的 Vercel 账户中：
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/fssxg/vercel-proxy)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/woixd/vercel-proxy)
 
 
 
@@ -61,7 +61,7 @@ https://your-vercel-app.vercel.app/?url=https://api.github.com
 ### Q: 有限制吗？
 
 - Vercel 的默认响应大小限制是 100MB，超出无法使用。
-- 对于超大文件或下载任务，建议使用 [Cloudflare-Workers-Proxy](https://github.com/fssxg/Cloudflare-Workers-Proxy)。
+- 对于超大文件或下载任务，建议使用 [Cloudflare-Workers-Proxy](https://github.com/woixd/Cloudflare-Workers-Proxy)。
 
 ---
 
