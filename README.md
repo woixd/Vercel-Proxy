@@ -1,4 +1,4 @@
-## 🌐 [中文](https://github.com/fssxg/Vercel-Proxy/blob/main/README_%E4%B8%AD%E6%96%87.md)/[EN](https://github.com/fssxg/Vercel-Proxy/blob/main/README.md)
+## 🌐 [中文](https://github.com/woixd/Vercel-Proxy/blob/main/README_%E4%B8%AD%E6%96%87.md)/[EN](https://github.com/woixd/Vercel-Proxy/blob/main/README.md)
 
 ---
 
@@ -21,7 +21,7 @@ This is a lightweight proxy service based on Vercel, which can be used to bypass
 
 Click the button below to automatically deploy to your Vercel account:
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/fssxg/vercel-proxy)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/woixd/vercel-proxy)
 
 
 
@@ -57,7 +57,7 @@ https://your-vercel-app.vercel.app/?url=https://api.github.com
 ### Q: Are there any limitations?
 
 - Vercel's default response size limit is 100MB. Anything larger cannot be used.  
-- For very large files or download tasks, it is recommended to use [Cloudflare-Workers-Proxy](https://github.com/fssxg/Cloudflare-Workers-Proxy).
+- For very large files or download tasks, it is recommended to use [Cloudflare-Workers-Proxy](https://github.com/woixd/Cloudflare-Workers-Proxy).
 
 ---
 
