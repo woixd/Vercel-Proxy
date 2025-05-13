@@ -56,7 +56,7 @@ https://your-vercel-app.vercel.app/?url=https://api.github.com
 ### Q: Are there any limitations?
 
 - Vercel's default response size limit is 100MB. Anything larger cannot be used.  
-- For very large files or download tasks, it is recommended to use Wokers-proxy.
+- For very large files or download tasks, it is recommended to use Cloudfare-Proxy.
 
 ---
 
