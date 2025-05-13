@@ -8,7 +8,7 @@
 
 ## ✨ 功能特点
 
-- ✅ 支持网页 / API接口 / 任意 URL 的代理请求
+- ✅ 支持网页 / API / 任意 URL 的代理请求
 - ✅ 简洁 URL 格式：`/?url=https://example.com`
 - ✅ 自动转发内容类型（Content-Type）
 - ✅ 无需服务器，部署在 Vercel 即可
