@@ -40,7 +40,7 @@ https://your-vercel-app.vercel.app/?url=https://example.com&token=abc123
 
 ### 3. 一键部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/your-username/vercel-api-web-proxy)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/fssxg/vercel-proxy)
 
 ---
 
