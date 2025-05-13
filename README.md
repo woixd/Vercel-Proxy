@@ -1,4 +1,4 @@
-# vercel-api-web-proxy
+# vercel-proxy
 
 一个可以部署在 [Vercel](https://vercel.com) 的通用 API + Web 动态代理服务。
 
@@ -13,7 +13,7 @@
 
 点击下方按钮部署到你的 Vercel：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/your-username/vercel-api-web-proxy)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/fssxg/vercel-proxy)
 
 ## 📦 使用方法
 
